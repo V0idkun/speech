@@ -1,4 +1,4 @@
 streamlit
-pocketsphinx
-sphinix
+PocketSphinx
 SpeechRecognition
+PyAudio
